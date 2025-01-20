@@ -1,3 +1,3 @@
 # Something Nice
 
-*This Is A Code That Can Finish
+*This Is A Code That Can FInish
